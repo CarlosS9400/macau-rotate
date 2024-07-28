@@ -74,6 +74,7 @@ h1 {
 }
 
 #right-column {
+  margin-top: -50px;
   align-self: flex-end;
   margin-right: 100px;
   transform: rotate(-3deg);
